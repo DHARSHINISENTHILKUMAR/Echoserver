@@ -15,7 +15,7 @@ Design of echo server and client using python socket
 
 ### Step 2:
 
-Implementation using Python code
+Implementation using Python code.
 
 ### Step 3:
 
